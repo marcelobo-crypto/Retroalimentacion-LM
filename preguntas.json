@@ -1,0 +1,45 @@
+{
+  "titulo": "Factorización por diferencia de cuadrados",
+  "preguntas": [
+    {
+      "pregunta": "¿Cómo se factoriza la expresión x² - 16?",
+      "respuesta": "(x - 4)(x + 4)"
+    },
+    {
+      "pregunta": "Factoriza la expresión 9y² - 25",
+      "respuesta": "(3y - 5)(3y + 5)"
+    },
+    {
+      "pregunta": "Factoriza la expresión 49a² - 64b²",
+      "respuesta": "(7a - 8b)(7a + 8b)"
+    },
+    {
+      "pregunta": "Factoriza la expresión 121m² - 144n²",
+      "respuesta": "(11m - 12n)(11m + 12n)"
+    },
+    {
+      "pregunta": "Factoriza 36p² - 49q²",
+      "respuesta": "(6p - 7q)(6p + 7q)"
+    },
+    {
+      "pregunta": "Factoriza la expresión 4x² - 25",
+      "respuesta": "(2x - 5)(2x + 5)"
+    },
+    {
+      "pregunta": "Factoriza 100z² - 81",
+      "respuesta": "(10z - 9)(10z + 9)"
+    },
+    {
+      "pregunta": "Factoriza la expresión 64x²y² - 49a²b²",
+      "respuesta": "(8xy - 7ab)(8xy + 7ab)"
+    },
+    {
+      "pregunta": "Factoriza la expresión 81p²q² - 16m²n²",
+      "respuesta": "(9pq - 4mn)(9pq + 4mn)"
+    },
+    {
+      "pregunta": "Factoriza la expresión 225r²s² - 400t²u²",
+      "respuesta": "(15rs - 20tu)(15rs + 20tu)"
+    }
+  ]
+}
